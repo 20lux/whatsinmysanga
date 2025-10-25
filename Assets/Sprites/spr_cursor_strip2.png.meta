@@ -116,35 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: spr_cursor_strip2_0
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 0
-        width: 29
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5dc66cf78fadcc30800000000000000
-      internalID: 4381351011091402078
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: spr_cursor_strip2_1
       rect:
         serializedVersion: 2
-        x: 36
+        x: 32
         y: 0
-        width: 27
-        height: 60
+        width: 32
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,11 +137,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: spr_cursor_strip2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2349f452832acfc7f8f26c2876f9de7a
+      internalID: -1916084954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 6db8dc324f63686bfabfc1ddd1a490c2
     internalID: 0
     vertices: []
     indices: 
@@ -173,7 +173,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      spr_cursor_strip2_0: 4381351011091402078
+      spr_cursor_strip2_0: -1916084954
       spr_cursor_strip2_1: -4845135190447266918
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
